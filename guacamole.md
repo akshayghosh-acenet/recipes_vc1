@@ -3,4 +3,4 @@
 - lime
 - salt
 # Instructions
-- step 1
+- peel the avacados
