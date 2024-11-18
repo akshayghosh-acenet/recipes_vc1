@@ -3,4 +3,4 @@
 - lime
 - salt
 # Instructions
-- step 1
+- put one avacado into a bowl
